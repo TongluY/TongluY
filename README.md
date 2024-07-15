@@ -1,11 +1,9 @@
 
 
-<h1 align="center">Hello, I'm Tonglu(Remi) Do</h1>
-<h3 align="center">A CS Senior at Univeristy of Wisconsin-Madison</h3>
+<h1 align="center">Hello, I'm Tonglu(Remi) Yang</h1>
+<h3 align="center">A CS Recent Grad from Univeristy of Wisconsin-Madison</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562" >
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dth2701&label=Profile%20views&color=0e75b6&style=flat" alt="dth2701" /> </p>
+<img src="https://github.com/user-attachments/assets/29c7bb30-bb91-4c4b-8139-3689f46db97c" alt="remi" width="400" align="right">
 
 
 - 🔭 I’m currently looking for a **SDE New Grad/Entry Level** role.
@@ -14,7 +12,7 @@
 
 - 🌱 I’m currently learning **React/JavaScript and Flask/Python**
 
-- 👨‍💻 All of my projects are available at [https://dth2701.github.io/](https://dth2701.github.io)
+- 👨‍💻 All of my projects are available at [https://tongluy.github.io/](https://tongluy.github.io/)
 
 - 📫 How to reach me **remiytl63@gmail.com**
 
@@ -22,8 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/huong-thien-do" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huong-thien-do" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dothienhuong2701" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dothienhuong2701" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tongluy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tonglu-remi-yang" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
